@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nelatsudhess.github.io/index-5mlottery-com/sitemap.xml
